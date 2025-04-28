@@ -1,0 +1,7 @@
+2025-02-04 22:40:20,171 - INFO - Connection established with ('127.0.0.1', 57427)
+2025-02-04 22:40:58,202 - ERROR - [WinError 10053] An established connection was aborted by the software in your host machine
+2025-02-04 22:40:58,202 - INFO - closing client
+
+2025-02-04 22:42:40,889 - INFO - Connection established with ('127.0.0.1', 57524)
+2025-02-04 22:45:16,546 - INFO - closing socket do to timeout
+
